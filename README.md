@@ -11,7 +11,7 @@ A aplicação possui as seguintes funcionalidades:
 
 ## Como visualizar o projeto
 O site já está hospedado então para visualizar.<br>
-[Clique Aqui!](https://loja-virtual.marcuspaixao.com.br/)
+[Clique Aqui!](https:/imperium.marcuspaixao.com.br/)
 
 ## Como contribuir
 Se deseja contribuir com o projeto, siga os seguintes passos:
